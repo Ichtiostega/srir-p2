@@ -1,6 +1,4 @@
 #include <iostream>
-#include <iomanip>
-#include <cstdlib>
 #include <random>
 #include <upcxx/upcxx.hpp>
 using namespace std;
